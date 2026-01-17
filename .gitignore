@@ -1,3 +1,26 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Streamlit cache (safe to ignore)
+.streamlit/cache/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
