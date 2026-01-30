@@ -1,7 +1,6 @@
 # Life Decision Tool (v.o1)
 
-A structured decision-making tool that helps you compare two options against the life boundaries you actually care about — not just blind optimism, or spreadsheets detached from reality.
-
+A structured decision-making tool that helps you compare two options against the life boundaries you actually care about.
 This tool is designed to **remove options that don’t fit your life**, then clearly compare what remains.
 
 No advice. Just clarity.
